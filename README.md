@@ -19,7 +19,7 @@ $ npm install -g devkeeper-typedoc
 $ devkeeper-typedoc COMMAND
 running command...
 $ devkeeper-typedoc (-v|--version|version)
-devkeeper-typedoc/1.0.0 darwin-x64 node-v14.1.0
+devkeeper-typedoc/1.0.1 darwin-x64 node-v14.1.0
 $ devkeeper-typedoc --help [COMMAND]
 USAGE
   $ devkeeper-typedoc COMMAND
@@ -62,7 +62,7 @@ OPTIONS
   --out=out   [default: api-docs-html] Output directory for generated HTML files.
 ```
 
-_See code: [src/commands/html.ts](https://github.com/ozum/devkeeper-typedoc/blob/v1.0.0/src/commands/html.ts)_
+_See code: [src/commands/html.ts](https://github.com/ozum/devkeeper-typedoc/blob/v1.0.1/src/commands/html.ts)_
 
 ## `devkeeper-typedoc md`
 
@@ -81,5 +81,5 @@ OPTIONS
   --singleFile  combines all output into single markdown file
 ```
 
-_See code: [src/commands/md.ts](https://github.com/ozum/devkeeper-typedoc/blob/v1.0.0/src/commands/md.ts)_
+_See code: [src/commands/md.ts](https://github.com/ozum/devkeeper-typedoc/blob/v1.0.1/src/commands/md.ts)_
 <!-- commandsstop -->
