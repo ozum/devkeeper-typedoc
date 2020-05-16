@@ -1,7 +1,7 @@
 {
   "name": "devkeeper-typedoc",
   "description": "TypeDoc commands and API for devkeeper.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Özüm Eldoğan @ozum",
   "bin": {
     "devkeeper-typedoc": "./bin/run"
