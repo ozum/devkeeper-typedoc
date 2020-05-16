@@ -33,5 +33,5 @@ export default async function md({out = '', singleFile = false}, logger = consol
     throw (error)
   }
 
-  logger.log(`TypeDoc markdown are created in ${singleFile ? outFile : outDir}`)
+  logger.log(`TypeDoc markdown created in ${singleFile ? outFile : outDir}`)
 }
